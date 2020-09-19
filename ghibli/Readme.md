@@ -26,6 +26,6 @@ Mac OS Catalina 10.15.6
 
 exeは用意しておりますが、テストは行っていませんのでご容赦ください。
 
-#参考サイト
+# 参考サイト
 
 画像ダウンロード部分：https://note.nkmk.me/python-download-web-images/
