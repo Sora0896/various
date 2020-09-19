@@ -5,6 +5,7 @@
 
 # Download
 
+[EXEをダウンロード](https://github.com/Sora1269/various/raw/master/ghibli/ghibli)
 
 # Usage
 
